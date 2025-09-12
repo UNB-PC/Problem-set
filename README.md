@@ -3,6 +3,7 @@ Post your to problems.
 
 ## Rules.
 Use the [Collaboration-rules](https://github.com/UNB-CPC/Collaboration-rules)
+
 Follow the [Coding-Standards](https://github.com/UNB-CPC/Coding-Standards)
 
 Submit it in the folder for the programming language you are using, if it doesn't exist create one

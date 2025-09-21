@@ -1,4 +1,4 @@
-ﾳass Solution {
+class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         std::unordered_set<int> data;
